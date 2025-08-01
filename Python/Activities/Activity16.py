@@ -1,5 +1,5 @@
 class Activity16:
-    'This class represents a car'
+
  
     def __init__(self, manufacturer, model, make, transmission, color):
         self.manufacturer = manufacturer
