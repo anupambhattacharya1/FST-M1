@@ -15,7 +15,7 @@ import io.restassured.specification.ResponseSpecification;
 
 public class Activity5 {
 
-	String sshKey ="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHXiq4yzfIXBPJvndydaBCwgcEg3zvRKF0I+g625Legq";
+	String sshKey ="ssh-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx";
 	 int keyId;
   RequestSpecification requestSpec;
   ResponseSpecification responseSpec;
@@ -69,3 +69,4 @@ public class Activity5 {
   }
 
 }
+
