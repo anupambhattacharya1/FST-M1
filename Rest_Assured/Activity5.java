@@ -25,7 +25,7 @@ public class Activity5 {
 	  requestSpec = new RequestSpecBuilder().
 	  setBaseUri("https://api.github.com/user/keys").
 	  addHeader("Content-Type","application/json").
-	  addHeader("Authorization","token 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").
+	  addHeader("Authorization","token TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT").
 	  addHeader("X-GitHub-Api-Version", "2022-11-28").
 	  build();
 	  
@@ -69,4 +69,5 @@ public class Activity5 {
   }
 
 }
+
 
